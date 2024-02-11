@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Australia's First Open-Source Large Language Model (LLM) Project
+Welcome to the Southern Cross AI project's repository, aimed at developing Australia's pioneering open-source LLM through collaborative efforts across academia, research, government, and business sectors.This repository hosts the website for documenting and facilitating the collaborative development of Australia's first LLM, serving as a central hub for information, updates, and community engagement. 
 
-## Getting Started
+## Getting Involved
 
-First, run the development server:
+**Development:** Enhance the site's functionality and user experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Content:** Write documentation, tutorials, and blog posts about the project's progress.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Feedback:** Offer suggestions and feedback on the website to ensure it effectively serves the project's needs and the community's expectations.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## How to Contribute and Submit a Pull Request
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Follow these steps to contribute to the project and submit your changes through a pull request.
 
-## Learn More
+### Step 1: Set Up for Development
 
-To learn more about Next.js, take a look at the following resources:
+1. **Clone the Repository**: Clone the project to your local machine to get started.
+    ```
+    git clone <repository-url>
+    ```
+2. **Install Dependencies**: Navigate to the project directory and install its dependencies.
+    ```
+    npm install
+    ```
+    Alternatively, use `yarn` or `pnpm` if you prefer.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. **Start the Development Server**: Run the development server to see your changes in real time.
+    ```
+    npm run dev
+    ```
+    You can also use `yarn dev`, `pnpm dev`, or `bun dev` based on your setup.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Step 2: Make Your Contribution
 
-## Deploy on Vercel
+1. **Create a New Branch**: Create a new branch for your changes.
+    ```
+    git checkout -b your-branch-name
+    ```
+2. **Make Your Changes**: Implement the changes or improvements you're contributing.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. **Commit Your Changes**: Commit your changes with a descriptive message.
+    ```
+    git add .
+    git commit -m "Your descriptive commit message"
+    ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Step 3: Submit Your Pull Request
+
+1. **Push to Your Fork**: If it's your first contribution, make sure to fork the repository. Then, push your branch to your fork.
+    ```
+    git push origin your-branch-name
+    ```
+2. **Open a Pull Request (PR)**: Navigate to the original repository on GitHub. You should see a prompt to open a pull request with your changes. If not, go to the "Pull requests" tab, click "New pull request", then "compare across forks", and select your branch.
+
+3. **Describe Your PR**: Provide a concise title and detailed description for your pull request. Explain the changes you've made and their impact.
+
+4. **Submit the PR**: Submit your pull request. Await feedback or approval from the project maintainers.
+
+---
+
+This template is ready to be incorporated into your project's README.md, providing clear instructions for contributors on how to engage with your project effectively.
+
