@@ -15,9 +15,9 @@ Follow these steps to contribute to the project and submit your changes through 
 
 ### Step 1: Set Up for Development
 
-1. **Clone the Repository**: Clone the project to your local machine to get started.
+1. **Fork and Clone the Repository**: Clone the project to your local machine to get started.
     ```
-    git clone <repository-url>
+    git clone https://github.com/Southern-Cross-AI/WebSite.git
     ```
 2. **Install Dependencies**: Navigate to the project directory and install its dependencies.
     ```
@@ -57,7 +57,4 @@ Follow these steps to contribute to the project and submit your changes through 
 
 4. **Submit the PR**: Submit your pull request. Await feedback or approval from the project maintainers.
 
----
-
-This template is ready to be incorporated into your project's README.md, providing clear instructions for contributors on how to engage with your project effectively.
 
