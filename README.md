@@ -57,4 +57,13 @@ Follow these steps to contribute to the project and submit your changes through 
 
 4. **Submit the PR**: Submit your pull request. Await feedback or approval from the project maintainers.
 
+---
 
+**Important Links:**
+
+- [Licence](LICENCE.md)
+- [About Us](about.md)
+- [Vision, Mission and Principles](vision-mission-principles.md)
+- [Feedback or Suggestions](feedback.md)
+- [Privacy Policy](privacy.md)
+- [Terms of Use](terms.md)
