@@ -1,6 +1,8 @@
 **About Us**
 
-Welcome to the Southern Cross AI project! We are a pioneering initiative aimed at developing Australia's first open-source Large Language Model (LLM). Our project brings together a diverse team of experts from academia, research, government, and business sectors, united by a shared vision of advancing AI technology in Australia.
+Welcome to the Southern Cross AI project! 
+
+We are a pioneering initiative aimed at developing Australia's first open-source Large Language Model (LLM). Our project brings together a diverse team of experts from academia, research, government, and business sectors, united by a shared vision of advancing AI technology in Australia.
 
 At Southern Cross AI, we are committed to fostering innovation, collaboration, and knowledge sharing to create a sovereign Australian LLM tailored to the unique linguistic and contextual nuances of our country. Our mission is to empower Australian businesses and government agencies with cutting-edge AI solutions that drive efficiency, productivity, and competitiveness.
 
