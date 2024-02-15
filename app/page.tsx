@@ -5,6 +5,11 @@ export default function Home() {
       <div className="hero-content text-center text-neutral-content">
         <div className="max-w-md">
           <h1 className="mb-5 text-5xl font-bold">Southern Cross AI</h1>
+          <h2 className="mb-5 text-2xl font-bold glass">
+            {" "}
+            Contacts matthew.altenburg@anu.edu.au for research and
+            hello@dalerogers.com.au for operations
+          </h2>
           <p className="mb-5 glass">
             We are a research initiative aimed at developing Australia's first
             open-source Large Language Model (LLM). Our project aims brings
