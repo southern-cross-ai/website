@@ -17,7 +17,10 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
+  background-image: url("/logo.webp");
+  background-size: cover; /* Cover the entire page */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the image */
 }
 
 @layer utilities {

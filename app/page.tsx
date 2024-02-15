@@ -1,16 +1,11 @@
 export default function Home() {
   return (
-    <div
-      className="hero min-h-screen"
-      style={{
-        backgroundImage: "url('/logo.webp')",
-      }}
-    >
+    <div className="hero min-h-screen">
       <div className="hero-overlay bg-opacity-60"></div>
       <div className="hero-content text-center text-neutral-content">
         <div className="max-w-md">
           <h1 className="mb-5 text-5xl font-bold">Southern Cross AI</h1>
-          <p className="mb-5">
+          <p className="mb-5 glass">
             We are a research initiative aimed at developing Australia's first
             open-source Large Language Model (LLM). Our project aims brings
             together a diverse team of experts from academia, research,
