@@ -9,7 +9,7 @@ const Features = () => {
         <div className="container">
           <SectionTitle
             title="Main Features"
-            paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+            paragraph="The Southern Cross AI project stands at the forefront of Australia's journey into the future of artificial intelligence. With a commitment to open-source development and collaboration, we're not just building technology; we're fostering a community. Here are the key features that define our initiative:"
             center
           />
 

@@ -13,8 +13,8 @@ const Video = () => {
     <section className="relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="We are ready to help"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          title="Empowering Innovation Together"
+          paragraph="Southern Cross AI is your partner in pioneering AI innovation within the Australian context. We unite researchers, businesses, and government entities in a collaborative ecosystem designed to foster technological breakthroughs. Our platform offers cutting-edge resources, expert networks, and a commitment to open, ethical AI development. Together, we're setting the stage for a smarter, more inclusive future."
           center
           mb="80px"
         />
