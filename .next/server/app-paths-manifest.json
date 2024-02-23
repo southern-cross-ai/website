@@ -1,10 +1,5 @@
 {
-  "/page": "app/page.js",
   "/about/page": "app/about/page.js",
   "/blog/page": "app/blog/page.js",
-  "/contact/page": "app/contact/page.js",
-  "/blog-sidebar/page": "app/blog-sidebar/page.js",
-  "/signin/page": "app/signin/page.js",
-  "/signup/page": "app/signup/page.js",
-  "/error/page": "app/error/page.js"
+  "/contact/page": "app/contact/page.js"
 }
