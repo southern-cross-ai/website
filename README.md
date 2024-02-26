@@ -1,4 +1,6 @@
-# This is a previww branch that can be viewed on http
+# This is a preview branch that can be viewed on 
+
+https://website-git-preview-southern-cross-ai.vercel.app/
 
 ## How to Contribute and Submit a Pull Request
 
