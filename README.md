@@ -1,13 +1,4 @@
-# Australia's First Open-Source Large Language Model (LLM) Project
-Welcome to the Southern Cross AI project's repository, aimed at developing Australia's pioneering and sovereign open-source LLM through collaborative efforts across academia, research, government, and business sectors.This repository hosts the website for documenting and facilitating the collaborative development of Australia's first LLM, serving as a central hub for information, updates, and community engagement. 
-
-## Getting Involved
-
-**Development:** Enhance the site's functionality and user experience.
-
-**Content:** Write documentation, tutorials, and blog posts about the project's progress.
-
-**Feedback:** Offer suggestions and feedback on the website to ensure it effectively serves the project's needs and the community's expectations.
+# This is a previww branch that can be viewed on http
 
 ## How to Contribute and Submit a Pull Request
 
