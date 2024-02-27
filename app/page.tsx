@@ -5,24 +5,29 @@ export default function Home() {
         <div className="hero-content text-center">
           <div className="max-w-md">
             <h1 className="text-5xl font-bold">
-              Working Together to Build Australia's <b></b> First Large Language
-              Model
+              Working Together to Build
+              <br />
+              <span class="[&amp;::selection]:text-base-content relative col-start-1 row-start-1 bg-[linear-gradient(90deg,theme(colors.error)_0%,theme(colors.secondary)_9%,theme(colors.secondary)_42%,theme(colors.primary)_47%,theme(colors.accent)_100%)] bg-clip-text [-webkit-text-fill-color:transparent] [&amp;::selection]:bg-blue-700/20 [@supports(color:oklch(0_0_0))]:bg-[linear-gradient(90deg,oklch(var(--s))_4%,color-mix(in_oklch,oklch(var(--s)),oklch(var(--er)))_22%,oklch(var(--p))_45%,color-mix(in_oklch,oklch(var(--p)),oklch(var(--a)))_67%,oklch(var(--a))_100.2%)]">
+                Australia's
+              </span>
+              <br />
+              First Large Language Model
             </h1>
+
             <p className="py-6">
-              Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda
-              excepturi exercitationem quasi. In deleniti eaque aut repudiandae
-              et a id nisi.
+              "Empowering innovation down under for a smarter and more connected
+              future."
             </p>
             <div className="flex justify-center gap-4">
               {" "}
               {/* Flex container with gap */}
               <a
-                href="https://docs.southerncross.ai"
+                href="https://huggingface.co/SouthernCrossAI"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-outline border-t-cyan-500"
               >
-                Get Started
+                Hugging Face
               </a>
               <a
                 href="https://github.com/Southern-Cross-AI"
@@ -33,12 +38,12 @@ export default function Home() {
                 Github
               </a>
               <a
-                href="https://github.com/Southern-Cross-AI"
+                href="https://discord.gg/Hrs3SgRk"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-outline border-t-red-500"
               >
-                Dicord
+                Discord
               </a>
             </div>
           </div>
