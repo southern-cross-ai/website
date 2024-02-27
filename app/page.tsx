@@ -1,25 +1,49 @@
 export default function Home() {
   return (
-    <div className="hero min-h-screen">
-      <div className="hero-overlay bg-opacity-60"></div>
-      <div className="hero-content text-center text-neutral-content">
-        <div className="max-w-md">
-          <h1 className="mb-5 text-5xl font-bold">Southern Cross AI</h1>
-          <h2 className="mb-5 text-2xl font-bold glass">
-            {" "}
-            Contacts matthew.altenburg@anu.edu.au for research and
-            hello@dalerogers.com.au for operations
-          </h2>
-          <p className="mb-5 glass">
-            We are a research initiative aimed at developing Australia's first
-            open-source Large Language Model (LLM). Our project aims brings
-            together a diverse team of experts from academia, research,
-            government, and business sectors, united by a shared vision of
-            advancing AI technology in Australia.
-          </p>
-          {/* <button className="btn btn-primary">Get Started</button> */}
+    <main>
+      <div className="hero min-h-screen bg-base-200">
+        <div className="hero-content text-center">
+          <div className="max-w-md">
+            <h1 className="text-5xl font-bold">
+              Working Together to Build Australia's <b></b> First Large Language
+              Model
+            </h1>
+            <p className="py-6">
+              Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda
+              excepturi exercitationem quasi. In deleniti eaque aut repudiandae
+              et a id nisi.
+            </p>
+            <div className="flex justify-center gap-4">
+              {" "}
+              {/* Flex container with gap */}
+              <a
+                href="https://docs.southerncross.ai"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn btn-outline border-t-cyan-500"
+              >
+                Get Started
+              </a>
+              <a
+                href="https://github.com/Southern-Cross-AI"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn btn-outline  border-t-green-600 "
+              >
+                Github
+              </a>
+              <a
+                href="https://github.com/Southern-Cross-AI"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn btn-outline border-t-red-500"
+              >
+                Dicord
+              </a>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
+    </main>
   );
 }
