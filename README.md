@@ -1,5 +1,5 @@
 # Southern Cross AI - Australia's first large language model research initiative
-This is a test.
+This is a test 2.
 
 Welcome to the Southern Cross AI project's repository, aimed at developing Australia's pioneering and sovereign open-source LLM through collaborative efforts across academia, research, government, and business sectors.This repository hosts the website for documenting and facilitating the collaborative development of Australia's first LLM, serving as a central hub for information, updates, and community engagement.
 
