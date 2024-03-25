@@ -38,7 +38,7 @@ export default function Home() {
                 Github
               </a>
               <a
-                href="https://discord.gg/Hrs3SgRk"
+                href="https://discord.gg/nvVkJShz6K"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-outline border-t-red-500"
