@@ -2,7 +2,7 @@
 
 Welcome to the Southern Cross AI project's repository, aimed at developing Australia's pioneering and sovereign open-source LLM through collaborative efforts across academia, research, government, and business sectors.This repository hosts the website for documenting and facilitating the collaborative development of Australia's first LLM, serving as a central hub for information, updates, and community engagement.
 
-## Getting Involved
+## Getting Involved test
 
 **Development:** Enhance the site's functionality and user experience.
 
