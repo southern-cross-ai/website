@@ -13,6 +13,10 @@ const Footer = () => {
           Contact
         </Link>
 
+         <Link href="../feedback" className="link link-hover">
+          Feedback
+        </Link>
+
       </nav>
       <nav>
         <div className="grid grid-flow-col gap-4">
