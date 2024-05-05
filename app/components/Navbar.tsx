@@ -1,10 +1,13 @@
 import React from "react";
+import Link from "next/link";
 
 const Navbar = () => {
   return (
     <div className="navbar bg-base-100">
       <div className="flex-1">
+          <Link href="/" legacyBehavior>
         <a className="btn btn-ghost text-xl">Southern Cross AI</a>
+          </Link>
         {/* <a className="btn btn-ghost text-xl">About</a> */}
         <a
           href="https://docs.southerncross.ai"
