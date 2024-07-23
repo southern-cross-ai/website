@@ -9,14 +9,14 @@ const Navbar = () => {
         <a className="btn btn-ghost text-xl">Southern Cross AI</a>
           </Link>
         {/* <a className="btn btn-ghost text-xl">About</a> */}
-        <a
+        {/* <a
           href="https://docs.southerncross.ai"
           className="btn btn-ghost text-xl"
           target="_blank"
           rel="noopener noreferrer"
         >
           Docs
-        </a>
+        </a> */}
       </div>
       {/* <div className="flex-none">
         <button className="btn btn-square btn-ghost">
