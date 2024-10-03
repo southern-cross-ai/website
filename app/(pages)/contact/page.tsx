@@ -13,12 +13,12 @@ export default function Contact() {
 
   const headlineStyle = {
     fontSize: '24px',
-    color: '#000',
+    color: '#fff',  // Updated to white
   };
 
   const textStyle = {
     fontSize: '16px',
-    color: '#000',
+    color: '#fff',  // Updated to white
   };
 
   return (
@@ -33,13 +33,13 @@ export default function Contact() {
           <p style={textStyle}>
             Matthew Altenburg<br />
             Technical Lead<br />
-            <a href="mailto:matthew.altenburg@anu.edu.au">matthew.altenburg@anu.edu.au</a>
+            <a href="mailto:matthew.altenburg@anu.edu.au" style={{ color: '#fff' }}>matthew.altenburg@anu.edu.au</a>
           </p>
           <div style={{ margin: '20px 0' }}></div>
           <p style={textStyle}>
             Andrew Smith<br />
             Researcher Engagement<br />
-            <a href="mailto:andrew.smith@anu.edu.au">andrew.smith@anu.edu.au</a>
+            <a href="mailto:andrew.smith@anu.edu.au" style={{ color: '#fff' }}>andrew.smith@anu.edu.au</a>
           </p>
         </div>
       </div>
