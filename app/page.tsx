@@ -33,18 +33,26 @@ export default function Home() {
       <div id="moreInfo" className="bg-blue p-8">
         <div className="text-center max-w-4xl m-auto">
           <h2 className="text-5xl font-bold">
-            <span className="text-base-content relative col-start-1 row-start-1 bg-clip-text bg-[linear-gradient(90deg,theme(colors.error)_0%,theme(colors.secondary)_9%,theme(colors.secondary)_42%,theme(colors.primary)_47%,theme(colors.accent)_100%)] text-transparent [&amp;::selection]:bg-blue-700/20 [@supports(color:oklch(0_0_0))]:bg-[linear-gradient(90deg,oklch(var(--s))_4%,color-mix(in_oklch,oklch(var(--s)),oklch(var(--er)))_22%,oklch(var(--p))_45%,color-mix(in_oklch,oklch(var(--p)),oklch(var(--a)))_67%,oklch(var(--a))_100.2%)]">
-              Why Southern Cross AI?
-            </span>
+            Why Southern Cross AI?
           </h2>
-          <p className="text-lg text-white">
-            Southern Cross AI is the first initiative to build a foundational large language model specifically for Australia. Our first operational AI model came online in November 2023. While there are plenty of powerful models overseas, our focus is on ensuring this model reflects Australian culture, values, and needs. This will serve as the building block for AI-driven products that can be applied across key sectors like government, education, and defence, in partnership with academia and the open-source community.
-          </p>
           <p className="text-lg text-white mt-4">
+            Working in conjunction with key partners across Education, Business and Government, we aim to lay the foundation for a thriving AI ecosystem within Australia. Many successful AI models began as open-source, and Southern Cross AI is following that same path. We’re building a model focused on creating a skilled community and developing their expertise locally. As this project grows and evolves, we will generate new applications and opportunities specifically tailored to Australian business, higher education, and government needs.
+          </p>
+          <h3 className="text-4xl font-semibold mt-6">Why an Australian Large-Language Model AI?</h3>
+          <p className="text-lg mt-4">
             By developing this model locally, we’re ensuring that Australia has access to AI solutions that are customized to our unique context. Government agencies, for example, could use the model to develop AI solutions that adhere to local laws and regulations, while businesses can apply it to create more culturally relevant applications. The broader impact will be the development of a strong AI ecosystem in Australia, backed by locally trained talent.
           </p>
-          <p className="text-lg text-white mt-4">
-            Southern Cross AI isn’t just about developing the model—it’s about building the infrastructure for future AI innovations. Much like an operating system or electric grid, it provides the foundation for a wide variety of future applications. It will empower Australian businesses, researchers, and developers to build upon it, spurring innovation across multiple industries.
+          <h3 className="text-4xl font-semibold mt-6">Why This Project Matters:</h3>
+          <p className="text-lg mt-4">
+            Southern Cross AI is not a single product—it’s the foundation for future AI innovation. Starting as an open-source project with support from a small number of partner organisations, our new large-language model AI is laying the groundwork for a sustainable business and a thriving AI ecosystem within Australia. By supporting this infrastructure now, we’re investing in the core technology that will drive countless future AI applications, all tailored to Australian needs and values.
+          </p>
+          <h3 className="text-4xl font-semibold mt-6">Why not use existing overseas models?</h3>
+          <p className="text-lg mt-4">
+            Models like GPT, or services from Azure and AWS, are useful but don’t address the specific needs of Australia. Southern Cross AI provides a localized foundation that aligns with our regulatory requirements and cultural context, ensuring the model is directly relevant to the industries and communities here. By building it locally, we’re fostering critical expertise in AI within Australia, reducing dependence on foreign technologies and cultivating a homegrown capability.
+          </p>
+          <h3 className="text-4xl font-semibold mt-6">I Represent An Educational, Research, Government or Business Organisation. How Do I Get Involved?</h3>
+          <p className="text-lg mt-4">
+            We have already engaged in a small number of partnerships with key organisations as we prepare the foundational model for a significant upgrade in capability and infrastructure in 2025. We will be making announcements around these partnerships later in the year, but in the meantime, we welcome enquiries and discussions with any interested potential partners. Please contact us.
           </p>
         </div>
       </div>
